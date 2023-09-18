@@ -1,22 +1,22 @@
-h6.oswald{
+h5.oswald{
     font-family: 'Times New Roman', Times, serif;
     font: size 20px; ;
     color:pink;
 
 }
-h6.alving{
+h5.alving{
     font-family: 'Times New Roman', Times, serif;
     font-size: medium;
     color:yellow;
 
 }
-h6.regina{
+h5.regina{
     font-family: 'Times New Roman', Times, serif;
     font-size: medium;
     color: green;
 
 }
-h6.mander{
+h5.mander{
     font-family: 'Times New Roman', Times, serif;
     font-size: medium;
     color:blue;
@@ -29,6 +29,8 @@ h6.mander{
 }
 
 p.hover{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
     color: black;
-    background-color: lightblue;
+    background-color: orchid;
 }
