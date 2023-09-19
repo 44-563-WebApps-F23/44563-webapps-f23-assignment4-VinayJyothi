@@ -7,7 +7,7 @@ h5.oswald{
 h5.alving{
     font-family: 'Times New Roman', Times, serif;
     font-size: medium;
-    color:yellow;
+    color:pink;
 
 }
 h5.regina{
@@ -48,4 +48,8 @@ tr:nth-child(odd){
 }
 tr:nth-child(even){
     background-color:lightseagreen;
+}
+h5.mander:hover{
+    text-shadow: 8px 9px 9px green;
+    border: 7px;
 }
