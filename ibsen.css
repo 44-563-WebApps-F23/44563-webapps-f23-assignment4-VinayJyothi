@@ -35,15 +35,17 @@ p.hover{
     background-color: orchid;
 }
 .table{
-    color:blue;
+    color:black;
     border:3px;
     text-align: center;
+    padding: 10px;
+    margin: 5px;
 
 }
 
-tr:nth-child(even){
+tr:nth-child(odd){
     background-color:yellow;
 }
-tr:nth-child(odd){
-    background-color: darkred;
+tr:nth-child(even){
+    background-color:lightseagreen;
 }
