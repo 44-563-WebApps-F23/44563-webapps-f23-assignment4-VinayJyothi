@@ -27,12 +27,22 @@ h5.mander{
     font-size: medium;
     color: black;
 }
+.stage-direction::before{
+    content: "Direction";
+    font-style: italic;
+    color:gray;
+}
 
-p.hover{
+.direction{
     font-family: 'Times New Roman', Times, serif;
     font-size: medium;
     color: black;
     background-color: orchid;
+    
+}
+.direction:hover{
+    background-color: orange;
+    color: white;
 }
 .table{
     color:black;
