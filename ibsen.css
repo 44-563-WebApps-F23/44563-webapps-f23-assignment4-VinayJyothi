@@ -36,7 +36,7 @@ p.hover{
 }
 .table{
     color:black;
-    border:3px;
+    border:5px;
     text-align: center;
     padding: 10px;
     margin: 5px;
@@ -50,6 +50,6 @@ tr:nth-child(even){
     background-color:lightseagreen;
 }
 h5.mander:hover{
-    text-shadow: 8px 9px 9px green;
+    text-shadow: 8px 13px 3px darkgreen;
     border: 7px;
 }
