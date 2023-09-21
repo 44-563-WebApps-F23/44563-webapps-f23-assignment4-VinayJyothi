@@ -28,7 +28,7 @@ h5.mander{
     color: black;
 }
 .stage-direction::before{
-    content: "Direction";
+    content: "Conversation";
     font-style: italic;
     color:gray;
 }
